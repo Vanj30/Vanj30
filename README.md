@@ -11,3 +11,5 @@ Vanj30/Vanj30 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --
 This is a vision system I created
+Message me if you're interested.
+Evangeline De la Cruz is my messenger name
